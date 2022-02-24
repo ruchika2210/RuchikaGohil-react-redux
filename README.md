@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+1.Here , first of all , the dependencies should be updated by running the command "npm i". 2. Project can be started by running npm start.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
